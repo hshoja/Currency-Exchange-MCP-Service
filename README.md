@@ -70,6 +70,10 @@ This project demonstrates a fundamental shift in how we build applications. Inst
 
 A Node.js service built with Hono.js that provides a single API endpoint for currency exchange queries. The service integrates with an MCP (Model Context Protocol) server to provide real-time currency exchange rates and uses Claude AI to interpret user requests.
 
+
+https://github.com/user-attachments/assets/aa88ab4e-511a-4ece-9881-5bf156570b38
+
+
 ## 🏗️ Architecture
 
 ```
